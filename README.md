@@ -1,7 +1,7 @@
-# d20horoscope
-Official Repository for the twitter bot @d20horoscope
+# D20 Horoscope
+Official Repository for the twitter bot [@d20horoscope](https://twitter.com/d20horoscope), otherwise known as Dani the D20 Oracle ( <https://twitter.com/d20horoscope> )
 
-Designed to be ran daily by a cronjob or any similar scheduling service
+Designed to be ran daily by a cronjob or any similar scheduling service.
 
 ## Manually generate a tweet
 
