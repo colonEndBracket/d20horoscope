@@ -1,84 +1,87 @@
 {
     "rolls": {
         "1": [
-            "Yikes! That's a bad roll",
-            "Your day is going to be not very good :("
+            "Yikes! That's a REALLY bad roll. Avoid unattended shopping carts today...",
+            "Your day is going to be not very good :( Drink some water... it'll aid you somewhat..."
         ],
         "2": [
-            "testing",
-            "TESTING"
+            "Well at least it's not going to be the WORST day...carry an umbrella...",
+            "It's probably going to suck but at least it's not going to suck suck... brush your teeth extra well today..."
         ],
         "3": [
-            "testing",
-            "TESTING"
+            "Be wary of parking tickets...",
+            "You know what they say: Three's a crowd but not a very good roll... compliment a small animal today to aid your luck..."
         ],
         "4": [
-            "testing",
-            "TESTING"
+            "Uh... come back tomorrow and see if you roll better. Don't expect today to be great... avoid dairy products...",
+            "An acorn may fall on your head while you are outside... remember to be polite to the squirrels..."
         ],
         "5": [
-            "testing",
-            "TESTING"
+            "Be careful when pouring liquids today, you are likely to miss the cup...",
+            "Carry bug spray with you today... you are not safe..."
         ],
         "6": [
-            "testing",
-            "TESTING"
+            "Do not play any sports today - something bad will happen and it will be your fault...",
+            "Try to drink 6 glasses of water today - else disaster will be your fate...",
+            "You will have a bad day today, and it will be your fault..."
         ],
         "7": [
-            "testing",
-            "TESTING"
+            "Seven may be a lucky number, but today is not your lucky day...",
+            "Allow me to save you the hassle, your wallet is in your pocket..."
         ],
         "8": [
-            "testing",
-            "TESTING"
+            "Eight is also a lucky number... but you are not...",
+            "Your roll was mediocre... avoid foods that contain fish... it will also be mediocre..."
         ],
         "9": [
-            "testing",
-            "TESTING"
+            "Look in the mirror and give yourself a compliment... you deserve it... it will boost your luck...",
+            "Carry two quarters with you today, you may encounter a gnome who could really use it..."
         ],
         "10": [
-            "testing",
-            "TESTING"
+            "Not bad of a roll! Your day is looking to be okay... a little too okay...",
+            "Your day will be fine... acts of charity will yield extra joy today..."
         ],
         "11": [
-            "testing",
-            "TESTING"
+            "You will have an okay day... though if you reply with a picture of your pet, your day will be very spectacular.",
+            "If you have a pet, please pat them for me... if you do not have a pet, please pat yourself on the back for me... Oh it looks like you rolled an 11, good job!"
         ],
         "12": [
-            "testing",
-            "TESTING"
+            "Fruit will taste extra well today...",
+            "Vegetables will taste extra well today...",
+            "Meat based foods will taste a little more alright than usual today..."
         ],
         "13": [
-            "testing",
-            "TESTING"
+            "This number is not the luckiest, but in terms of the value of the roll, it is fairly lucky. Just like how everyone is lucky to have you in their life. Thank you for being here to roll this dice with us.",
+            "13 is a prime number, but no matter what era of your life you are in, today you will be in the prime of your life... though this is not different from any other day..."
         ],
         "14": [
-            "testing",
-            "TESTING"
+            "The next time you toss trash into its proper recipticle, you will make the shot and feel a sense of accomplishment. Anyone else who witnesses the spectacle will be gently impressed, even if they do not openly express it...",
+            "Try listening to a radio station today... you are very likely to enjoy one of the songs they play..."
         ],
         "15": [
-            "testing",
-            "TESTING"
+            "Seek out a quinceañera, there will be excellent catering... you're welcome...",
+            "When you step into an automobile today, you will find your seat to be quite more comfortable than usual..."
         ],
         "16": [
-            "testing",
-            "TESTING"
+            "Play an air guitar to your favorite song, you will be surprised with how well you play it...",
+            "Today will be great, be sure to tip your service workers a little extra today to carry today's luck into the next day..."
         ],
         "17": [
-            "testing",
-            "TESTING"
+            "You will have a great day today, but not because you rolled well... you've been doing great and the dice has noticed it... rest easy today...",
+            "You will brighten the days of those around you... but this isn't anything new - you've had this status effect the whole time!"
         ],
         "18": [
-            "testing",
-            "TESTING"
+            "If you've ever wanted to have a little more of something, today's the day! Treat yourself, you deserve it!",
+            "You will see a very cute animal today... it will be amazing..."
         ],
         "19": [
-            "testing",
-            "TESTING"
+            "Water will taste extra yummy today thanks to the blessing of the dice... you're welcome...",
+            "Somebody will confess their love for you today... it's me... I love you... (in the only way a sentient die can...)"
         ],
         "20": [
-            "testing",
-            "TESTING"
+            "WOW! You're day is going to be excellent! Do a little happy dance! Go ahead, no one's watching! They are? Okay then well maybe next time when you're washing your hands in the restroom do a happy little jig...",
+            "With all of the might that my being as a sentient d20 can muster... I hereby declare that today will absolutely be your day... let no fears hinder you.. you are unstoppable..."
         ]
     }
+
 }
