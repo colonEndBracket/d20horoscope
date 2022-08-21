@@ -13,7 +13,7 @@ const client = new Twitter({
 
 function main(){
 	const die = 20;
-	const img_folder_path = "./img/"
+	const img_folder_path = "./d20_jpeg/"
 	const horoscopes_path = "./horoscopes.json"
 
 	const colors = {
@@ -21,14 +21,14 @@ function main(){
 		6:	["white"],
 	}
 
-	tweetRoll(colors);
+	tweetRoll(colors,die,img_folder_path,horoscopes_path);
 }
 
 // Generates and sends a tweet based on a die and pictures of the die
-function tweetRoll(colors, die=20, img_folder_path="./img/", horoscopes_path="./horoscopes.json"){
+function tweetRoll(colors, die=20, img_folder_path="./d20_jpeg/", horoscopes_path="./horoscopes.json"){
 	const roll = rollD(die);
 	const roll_pad	 = String(roll).padStart(2, '0');
-	const image_path = img_folder_path+"d"+die+"_"+randChoice(colors[die])+"_"+roll_pad+".jpeg";
+	const image_path = img_folder_path+"d"+die+"/"+randChoice(colors[die])+"/"+roll_pad+".jpeg";
 
 	var status_text = "Today's roll: ";
 	status_text += roll;

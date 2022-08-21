@@ -1,0 +1,23 @@
+{
+  "name": "d20horoscope",
+  "version": "1.0.0",
+  "description": "Official Repository for the twitter bot [@d20horoscope](https://twitter.com/d20horoscope), otherwise known as Dani the D20 Oracle ( <https://twitter.com/d20horoscope> )",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "devDependencies": {
+    "twitter": "1.7.1",
+    "dotenv": "16.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colonket/d20horoscope.git"
+  },
+  "author": "colonket",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colonket/d20horoscope/issues"
+  },
+  "homepage": "https://github.com/colonket/d20horoscope#readme"
+}
